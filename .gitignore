@@ -4,3 +4,4 @@ DynamoDBLocal_lib
 LICENSE.txt
 README.txt
 THIRD-PARTY-LICENSES.txt
+__pycache__
